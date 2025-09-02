@@ -26,7 +26,7 @@
 ---
 
 ## Links & Contacts
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dylanjayabahu.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jayabahu-636037266)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6754-1938)  
-
+## Links & Contacts  
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dylanjayabahu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jayabahu-636037266)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6754-1938)
