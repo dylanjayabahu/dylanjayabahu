@@ -20,6 +20,9 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 
 ---
 
