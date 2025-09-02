@@ -5,9 +5,9 @@
 ---
 
 ## Recent Projects
-- [IBM AI Engineering](https://github.com/dylanjayabahu/ibm-ai-engineering) – 13-course professional certificate program in mastering AI Engineering
-- [IDC Detection](https://github.com/dylanjayabahu/idc-detection) – Deep learning for invasive ductal carcinoma diagnosis (IEEE CCECE 2025)  
-- [Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot) – Maze-solving autonomous robot, school record holder  
+- [IBM AI Engineering](https://github.com/dylanjayabahu/ibm-ai-engineering) – 13-course professional certificate program in mastering AI engineering
+- [IDC Detection](https://github.com/dylanjayabahu/idc-detection) – Deep learning for  Invasive Ductal Carcinoma diagnosis (IEEE CCECE 2025)  
+- [Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot) – Maze-solving autonomous flame extinguishing robot, all-time record holder  
 
 ---
 
