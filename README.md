@@ -14,11 +14,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![JAX](https://img.shields.io/badge/JAX-5E7CE2?logo=google&logoColor=fff&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 
