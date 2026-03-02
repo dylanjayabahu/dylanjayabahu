@@ -7,6 +7,7 @@
 ## Current & Recent Projects
 - [IDC Detection](https://github.com/dylanjayabahu/idc-detection) – Deep learning for  Invasive Ductal Carcinoma diagnosis (IEEE CCECE 2025)
 - [RAG Tradeoffs](https://github.com/dylanjayabahu/rag-tradeoffs) - Systematic evaluation of 10+ LLMs to map the Pareto Frontier of accuracy vs. latency.
+- [LOB-Engine](https://github.com/dylanjayabahu/LOB-engine) - C++20 Matching Engine (5.7M orders/sec) using lock-free SPSC queues and custom memory pooling.
 - [Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot) – Maze-solving autonomous flame extinguishing robot, all-time record holder  
 
 ---
