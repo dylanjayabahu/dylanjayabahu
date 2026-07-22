@@ -12,8 +12,7 @@
 ---
 
 ## Projects
-- [RAG Tradeoffs](https://github.com/dylanjayabahu/rag-tradeoffs) – Stress-testing the performance cliff of long-context retrieval vs. chunking strategy across 10+ LLMs.
-- [LOB-Engine](https://github.com/dylanjayabahu/LOB-engine) – C++20 matching engine: 86ns latency, 5.8M orders/sec via lock-free SPSC queues and custom memory pooling on ARM64.
+- [LOB-Engine](https://github.com/dylanjayabahu/LOB-engine) – C++20 matching engine: 86ns latency, 5.8M orders/sec via lock-free SPSC queues and custom memory pooling on ARM64. Used in private trading algorithms, on real capital.
 - [Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot) – Maze-solving autonomous flame-extinguishing robot; all-time record holder.
 
 ---
