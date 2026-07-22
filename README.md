@@ -34,3 +34,4 @@
 ## Links & Contacts  
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dylanjayabahu.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jayabahu/)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dylanjayabahu.com/assets/resume/Dylan_Jayabahu_Resume.pdf)
