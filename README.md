@@ -10,7 +10,7 @@ Interpretability and efficient reasoning in language models.
 | | |
 |---|---|
 | **Perfect Aliasing in Compliant-Context Truth Probes** <br><sub>Sole author · NeurIPS 2026, *Interpretability as a Science* workshop</sub> | Truth probes fit on compliant data are **unidentified** — truth, intent, and emitted token are one label, forcing `AUROC(action) = 1 − AUROC(truth)` exactly. An identified probe reads **1.000** where the conventional one reads **0.006**. <br>[code](https://github.com/dylanjayabahu/perfect-aliasing) |
-| **The Halt Vector** <br><sub>First author · COLM 2026, *Efficient Reasoning* workshop</sub> | A causal halt direction at layer 18, moved into the weights. Hook-free per-problem self-halt: **−24% thinking at held accuracy**, five unseen benchmarks, 24 problems, no RL. <br>[code + paper](https://github.com/dylanjayabahu/halt-vector) |
+| **The Halt Vector** <br><sub>First author · COLM 2026, *Efficient Reasoning* workshop</sub> | A causal halt direction at layer 18, moved into the weights. Hook-free per-problem self-halt: **−24% thinking at held accuracy**, five unseen benchmarks, 24 problems, no RL. <br>[code](https://github.com/dylanjayabahu/halt-vector) · [arXiv](https://arxiv.org/abs/2608.28859) |
 | **IDC Detection in Histopathology** <br><sub>Sole author · IEEE CCECE 2025</sub> | Deep model for invasive ductal carcinoma detection. <br>[repo](https://github.com/dylanjayabahu/idc-detection) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11364431) |
 | **Human Action Detection, FMCW mmWave Radar** <br><sub>First author · CVIS 2024</sub> | Action recognition off raw radar returns. <br>[JCVIS](https://openjournals.uwaterloo.ca/index.php/vsl/article/view/6364) |
 
