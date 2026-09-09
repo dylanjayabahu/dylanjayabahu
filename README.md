@@ -1,6 +1,6 @@
 ## Dylan Jayabahu
 
-Interpretability and efficient reasoning in language models. Previously AI/ML engineering at Shopify, building and evaluating support-triage models.
+Interpretability and efficient reasoning in language models. Previously an ML Engineering Intern at Shopify, building and evaluating support-triage models.
 <br><sub>Computer Science, University of Waterloo · [website](https://www.dylanjayabahu.com/) · [linkedin](https://www.linkedin.com/in/dylan-jayabahu/)</sub>
 
 ---
