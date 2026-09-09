@@ -9,7 +9,7 @@ Interpretability and efficient reasoning in language models. Previously an ML En
 
 | | |
 |---|---|
-| **The Truth Was Never Gone: Perfect Aliasing in Compliant-Context Truth Probes** <br><sub>Sole author</sub> | Truth probes fit on compliant data are **unidentified** — truth, intent, and emitted token are one label, forcing `AUROC(action) = 1 − AUROC(truth)` exactly. An identified probe reads **1.000** where the conventional one reads **0.006**. <br>[code](https://github.com/dylanjayabahu/perfect-aliasing) |
+| **The Truth Was Never Gone: Perfect Aliasing in Compliant-Context Truth Probes** <br><sub>Sole author</sub> | In the studied binary tasks, compliant truth and action labels coincide, leaving the probes **unidentified**. Complementary evaluation labels give `AUROC(action) = 1 − AUROC(truth)`. Mixed-context fitting reaches **1.000** versus **0.006** conventional AUROC on Gemma-9B, averaged over three seeds. <br>[code](https://github.com/dylanjayabahu/perfect-aliasing) |
 | **The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning** <br><sub>First author · COLM 2026, *Efficient Reasoning* workshop · **Spotlight**</sub> | A causal halt direction at layer 18, moved into the weights. Hook-free per-problem self-halt: **−24% thinking at held accuracy**, five unseen benchmarks, 24 problems, no RL. <br>[code](https://github.com/dylanjayabahu/halt-vector) · [arXiv](https://arxiv.org/abs/2608.28859) |
 | **Deep Learning Model for Invasive Ductal Carcinoma Detection** <br><sub>Sole author · IEEE CCECE 2025</sub> | Deep model for invasive ductal carcinoma detection. <br>[repo](https://github.com/dylanjayabahu/idc-detection) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11364431) |
 | **Human Action Detection using FMCW mmWave Radar** <br><sub>First author · CVIS 2024</sub> | Action recognition off raw radar returns. <br>[JCVIS](https://openjournals.uwaterloo.ca/index.php/vsl/article/view/6364) |
@@ -26,6 +26,6 @@ Interpretability and efficient reasoning in language models. Previously an ML En
 | | |
 |---|---|
 | **[LOB-Engine](https://github.com/dylanjayabahu/LOB-engine)** | A small C++20 matching-engine prototype exploring price-time priority, SPSC queues, and pooled order storage. |
-| **[RAG Tradeoffs](https://github.com/dylanjayabahu/rag-tradeoffs)** | Where long-context retrieval falls off a cliff versus chunking, across 10+ LLMs. |
-| **[Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot)** | Autonomous maze-solving flame extinguisher. All-time course record holder. |
+| **[RAG Tradeoffs](https://github.com/dylanjayabahu/rag-tradeoffs)** | Benchmarks retrieval accuracy and latency across context lengths, chunk sizes, and 10+ LLMs. |
+| **[Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot)** | Autonomous maze-solving flame extinguisher. Set course records on two mazes, with recorded demonstrations. |
 | **Mr. Nutz** | Early-stage poker-robot prototype exploring card perception, poker decision-making, and embedded control. |
