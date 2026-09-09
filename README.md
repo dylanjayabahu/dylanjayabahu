@@ -28,4 +28,4 @@ Interpretability and efficient reasoning in language models. Previously an ML En
 | **[LOB-Engine](https://github.com/dylanjayabahu/LOB-engine)** | A small C++20 matching-engine prototype exploring price-time priority, SPSC queues, and pooled order storage. |
 | **[RAG Tradeoffs](https://github.com/dylanjayabahu/rag-tradeoffs)** | Benchmarks retrieval accuracy and latency across context lengths, chunk sizes, and 10+ LLMs. |
 | **[Firefighter Robot](https://github.com/dylanjayabahu/firefighter-robot)** | Autonomous maze-solving flame extinguisher. Set course records on two mazes, with recorded demonstrations. |
-| **Mr. Nutz** | Early-stage poker-robot prototype exploring card perception, poker decision-making, and embedded control. |
+| **Mr. Nutz** | Poker robot in progress, combining card perception, poker logic, and integrated hardware; full robot assembly is underway. |
