@@ -18,8 +18,8 @@ Interpretability and efficient reasoning in language models. Previously an ML En
 
 | | |
 |---|---|
-| **Off-Axis Drift: Internalizing a Steering Direction Needs More Than Its Scalar Projection** | For the halt direction, six scalar-projection objectives fail to compress at held accuracy across three model scales; full-vector reconstruction cuts **22.6–33.1%**. Off-axis drift explains the failure. A separate refusal-direction test succeeds under both objectives, bounding the claim. |
-| **RL training dynamics** | Dense-checkpoint probing across **three GRPO seeds** surfaces a reward-hacking phase transition — length compression leads the accuracy collapse by **15–30 steps**. |
+| **Off-Axis Drift: Internalizing a Halt Direction Needs More Than Its Scalar Projection** | Evaluated activation-target training for hook-free early stopping across **1.5B–14B reasoning models**, measuring compression, accuracy costs, and cross-domain transfer. Completed a **376-job development comparison of 46 candidate recipes**, selecting full-vector and on-axis reconstruction pairs at three shortening targets; held-out validation is pending. |
+| **RL training dynamics** | Dense-checkpoint probing across **three historical GRPO seeds** shows a gold-free confidence monitor failing to flag a length-penalty reward hack: it holds at **0.71–0.85** while held-out accuracy halves to **0.38–0.48**. A four-arm factorial testing sensitivity to GRPO normalization is implemented and pre-registered, **not yet run**. |
 
 ### Projects
 
