@@ -19,7 +19,7 @@ Interpretability and efficient reasoning in language models. Previously an ML En
 | | |
 |---|---|
 | **Off-Axis Drift: Internalizing a Halt Direction Needs More Than Its Scalar Projection** <br><sub>First author · with Tinuade Adeleke</sub> | Evaluated activation-target training for hook-free early stopping across **1.5B–14B reasoning models**, measuring compression, accuracy costs, and cross-domain transfer. Completed a **376-job development comparison of 46 candidate recipes**, selecting full-vector and on-axis reconstruction pairs at three shortening targets; held-out validation is pending. |
-| **RL training dynamics** | Dense-checkpoint probing across **three historical GRPO seeds** shows a gold-free confidence monitor failing to flag a length-penalty reward hack: it holds at **0.71–0.85** while held-out accuracy halves to **0.38–0.48**. A four-arm factorial testing sensitivity to GRPO normalization is implemented and pre-registered, **not yet run**. |
+| **RL training dynamics** | Dense-checkpoint probing across **three historical GRPO seeds** of a length-penalty reward hack: in two of three seeds a first-answer-token confidence readout ended at **0.81–0.85** while held-out accuracy fell **43–45%**. A four-arm factorial testing how GRPO's std and length normalizations jointly change the penalty's accuracy cost has its baseline arm **bit-identical to TRL across 168 cases** and is **not yet run**; the pipeline is calibrated on cloud H200s with a 50-step baseline run. |
 
 ### Projects
 
